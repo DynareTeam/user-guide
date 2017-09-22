@@ -1,6 +1,6 @@
 if HAVE_PDFLATEX
 if HAVE_BIBTEX
-pdf-local: UserGuide.pdf
+all-local: UserGuide.pdf
 endif
 endif
 

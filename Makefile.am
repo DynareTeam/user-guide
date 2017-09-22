@@ -1,0 +1,5 @@
+SUBDIRS = doc
+
+EXTRA_DIST = \
+	README.md \
+	LICENSE
